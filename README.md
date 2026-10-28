@@ -54,8 +54,15 @@ A browser tab opens with filters for region, category, and date range.
 ## Tools used
 Python, Pandas, Matplotlib, Plotly, and Streamlit.
 
-## Before submission
-- Run both tasks on your computer and review the results.
-- Read `outputs/eda_report.md` and be prepared to explain the charts.
-- If your supervisor expects a real dataset, replace the synthetic CSV with a permitted public dataset and rerun the analysis.
-- Add your name and internship details to this README if required by your coordinator.
+## Project Notes
+
+This project was developed as part of my CodeAlpha Data Analytics Internship.
+
+* The analysis is performed using Python, Pandas, and Matplotlib.
+* A synthetic retail sales dataset is used to demonstrate data analysis and visualization techniques.
+* The EDA results include data quality checks, summary statistics, and sales performance analysis.
+* The project also includes an interactive dashboard for exploring sales data by category, region, and date.
+* The scripts and outputs are organized into separate files and folders for easy understanding and execution.
+
+**Developed as part of the CodeAlpha Data Analytics Internship – October 2026 Batch.**
+
